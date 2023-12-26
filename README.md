@@ -90,4 +90,33 @@ Libraries:
 - Matplotlib
 - Seaborn
 
-6.
+6. "falcon9-Folium-Satellite"
+
+Using Folium to explore satellite data.
+
+Libraries:
+
+- Pandas
+- Folium
+
+7.  "falcon9-Dash-plotly"
+
+Using plotly Dash to create a dashboard.
+
+Libraries:
+
+- Pandas
+- Dash
+- Plotly.express
+
+8. "falcon9-Prediction"
+
+Use of SVM, Classification Trees and Logistic Regression to predict if a rocket launch will be successful.
+
+Libraries:
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Sklearn
