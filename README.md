@@ -1,3 +1,7 @@
+# Use of Data Science methods
+
+Collection of notebooks compiling tools used in Data Science. The notebooks are some of the exercises that were part of the IBM Data Science professional certificate in Coursera.
+
 ## Predicting Falcon 9 landing success
 
 Predicting if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch.
@@ -6,7 +10,7 @@ This project serves as a demostration in the use of different Data Science tools
 
 #### **Notebooks**
 
-1. "falcon9-GetRequest".
+### `1. "falcon9-GetRequest"`
 
 API get request, html parsing and data wrangling.
 
@@ -15,7 +19,7 @@ Libraries:
 - Requests
 - Pandas
 
-2. "falcon9-WebScraping".
+### `2. "falcon9-WebScraping"`
 
 API get request and html parsing and search.
 
@@ -25,7 +29,7 @@ Libraries:
 - Requests
 - Pandas
 
-3. "falcon9-DataWrangling".
+### `3. "falcon9-DataWrangling".`
 
 Exploratory Data Analysis and label creation to train a classification algorithm.
 
@@ -34,7 +38,7 @@ Libraries:
 - Numpy
 - Pandas
 
-4. "falcon9-EDA-SQL"
+### `4. "falcon9-EDA-SQL"`
 
 Exploratory Data Analysis using SQL
 
@@ -43,7 +47,7 @@ Libraries:
 - ipython-sql
 - sqlalchemy
 
-5. "falcon9-EDA-visualization"
+### `5. "falcon9-EDA-visualization"`
 
 Exploratory Data Analysis and visualization.
 
@@ -54,7 +58,7 @@ Libraries:
 - Matplotlib
 - Seaborn
 
-6. "falcon9-Folium-Satellite"
+### `6. "falcon9-Folium-Satellite"`
 
 Using Folium to explore satellite data.
 
@@ -63,7 +67,7 @@ Libraries:
 - Pandas
 - Folium
 
-7.  "falcon9-Dash-plotly"
+### `7.  "falcon9-Dash-plotly"`
 
 Using plotly Dash to create a dashboard.
 
@@ -73,7 +77,7 @@ Libraries:
 - Dash
 - Plotly.express
 
-8. "falcon9-Prediction"
+### `8. "falcon9-Prediction"`
 
 Use of SVM, Classification Trees and Logistic Regression to predict if a rocket launch will be successful.
 
@@ -84,8 +88,6 @@ Libraries:
 - Matplotlib
 - Seaborn
 - Sklearn
-
-# Use of Data Science methods
 
 ## Predicting rainfall the next day
 
